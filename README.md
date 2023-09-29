@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Emin</h1>
 <h3 align="center">Full Stack Web and Mobile Application Development</h3>
 
-- 🔭 I’m currently working on [Modern E-commerce](https://github.com/theebestzz/ecommerce-new)
-
 - 👨‍💻 All of my projects are available at [https://github.com/theebestzz](https://github.com/theebestzz)
 
 - 📝 I regularly write articles on [https://feksoftware.com/](https://feksoftware.com/)
