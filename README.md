@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://feksoftware.com/](https://feksoftware.com/)
 
-- 💬 Ask me about **react, next, tailwindcss, node**
+- 💬 Ask me about **react, next, tailwindcss, node, python, django**
 
 - 📫 How to reach me **f.eminn18@gmail.com**
 
