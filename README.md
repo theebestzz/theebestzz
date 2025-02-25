@@ -1,7 +1,7 @@
 # Fatih Emin Küçük
 
 ![][waves_top]
-Junior Developer - Computer Science graduate in Brazil
+Web & Mobile App Developer - In Türkiye
 
 ## 📈 Stats
 <div>
