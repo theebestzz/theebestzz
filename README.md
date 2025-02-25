@@ -5,10 +5,10 @@ Web & Mobile App Developer - In Türkiye
 
 ## 📈 Stats
 <div>
-  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=theebestzz&theme=dracula"/>
-  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theebestzz&theme=dracula"/>
-  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theebestzz&theme=dracula&utcOffset=-3"/>
-  <img height="241.8em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theebestzz&theme=dracula"/>
+  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=theebestzz&theme=gotham"/>
+  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theebestzz&theme=gotham"/>
+  <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theebestzz&theme=gotham&utcOffset=-3"/>
+  <img height="241.8em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theebestzz&theme=gotham"/>
 </div>
 
 
@@ -49,10 +49,10 @@ Web & Mobile App Developer - In Türkiye
 [kubernetes]:https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 
 [///]: # (URL - Stats)
-[stats_with_score]:https://github-readme-stats.vercel.app/api?username=theebestzz&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true
-[stats_score]:https://streak-stats.demolab.com?user=theebestzz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D
+[stats_with_score]:https://github-readme-stats.vercel.app/api?username=theebestzz&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true
+[stats_score]:https://streak-stats.demolab.com?user=theebestzz&theme=gotham&date_format=M%20j%5B%2C%20Y%5D
 [stats_leetcode]:https://leetcode.card.workers.dev/?username=XXX
-[stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=theebestzz&layout=compact&langs_count=7&theme=dracula
+[stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=theebestzz&layout=compact&langs_count=7&theme=gotham
 
 [///]: # (URL - Extra)
 [waves_top]:https://raw.githubusercontent.com/theebestzz/theebestzz/main/svg/Top.svg
