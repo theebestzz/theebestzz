@@ -14,6 +14,7 @@ Web & Mobile App Developer - In Türkiye
 
 ## 🤖 Skills
 ![][javascript]
+![][typescript]
 ![][python]
 
 ![][visualstudiocode]
@@ -35,6 +36,7 @@ Web & Mobile App Developer - In Türkiye
 
 [///]: # (URL - Shields - Languages)
 [javascript]:https://img.shields.io/badge/JavaScript-informational?logo=javascript&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
+[typescript]:https://img.shields.io/badge/TypeScript-informational?logo=javascript&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 [python]:https://img.shields.io/badge/Python-informational?logo=python&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
 
 [///]: # (URL - Stats)
