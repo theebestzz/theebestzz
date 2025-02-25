@@ -22,11 +22,6 @@ Junior Developer - Computer Science graduate in Brazil
 ![][linux]
 ![][gnu-bash]
 
-Color info:
-
-![][use]
-![][know]
-
 ![][waves_bottom]
 
 [///]: # (URL - Shields)
