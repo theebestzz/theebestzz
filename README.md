@@ -14,9 +14,7 @@ Junior Developer - Computer Science graduate in Brazil
 
 ## 🤖 Skills
 ![][javascript]
-![][typescript]<br>
 ![][python]
-![][sql]
 
 ![][visualstudiocode]
 ![][windows]
