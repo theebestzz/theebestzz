@@ -22,8 +22,6 @@ Web & Mobile App Developer - In Türkiye
 ![][linux]
 ![][gnu-bash]
 
-![][waves_bottom]
-
 [///]: # (URL - Shields)
 [use]:https://img.shields.io/badge/Use_frequently-informational?style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
 [know]:https://img.shields.io/badge/Knowledge_about-informational?style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
@@ -36,24 +34,11 @@ Web & Mobile App Developer - In Türkiye
 [gnu-bash]:https://img.shields.io/badge/Bash-informational?logo=gnu-bash&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 
 [///]: # (URL - Shields - Languages)
-[python]:https://img.shields.io/badge/Python-informational?logo=python&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
-[autohotkey]:https://img.shields.io/badge/Auto_Hotkey-informational?logo=autohotkey&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
-[ruby]:https://img.shields.io/badge/Ruby-informational?logo=ruby&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
-[rubyonrails]:https://img.shields.io/badge/Ruby_on_Rails-informational?logo=rubyonrails&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 [javascript]:https://img.shields.io/badge/JavaScript-informational?logo=javascript&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
-[latex]:https://img.shields.io/badge/LaTeX-informational?logo=latex&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
-
-[///]: # (URL - Shields - Tools)
-[sqlite]:https://img.shields.io/badge/SQLite-informational?logo=sqlite&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
-[docker]:https://img.shields.io/badge/Docker-informational?logo=docker&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
-[kubernetes]:https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
+[python]:https://img.shields.io/badge/Python-informational?logo=python&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
 
 [///]: # (URL - Stats)
 [stats_with_score]:https://github-readme-stats.vercel.app/api?username=theebestzz&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true
 [stats_score]:https://streak-stats.demolab.com?user=theebestzz&theme=gotham&date_format=M%20j%5B%2C%20Y%5D
 [stats_leetcode]:https://leetcode.card.workers.dev/?username=XXX
 [stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=theebestzz&layout=compact&langs_count=7&theme=gotham
-
-[///]: # (URL - Extra)
-[waves_top]:https://raw.githubusercontent.com/theebestzz/theebestzz/main/svg/Top.svg
-[waves_bottom]:https://raw.githubusercontent.com/theebestzz/theebestzz/main/svg/Bottom.svg
